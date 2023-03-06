@@ -1,0 +1,10 @@
+site_name: WebMK
+theme: material
+
+extra_css:
+  - extra_css.css
+nav:
+  - Index: index.md
+  - Tasca 1: tasca1.md
+  - Tasca 2: tasca2.md
+  - Tasca 3: tasca3.md
